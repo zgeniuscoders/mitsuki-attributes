@@ -1,0 +1,18 @@
+{
+  "name": "mitsuki/attributes",
+  "type": "library",
+  "license": "MIT",
+  "description": "A lightweight and high-performance PHP router for the Mitsuki framework, leveraging Symfony Routing components for robust URL management.",
+  "autoload": {
+    "psr-4": {
+      "Mitsuki\\Attributes\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "zgeniusecoders",
+      "email": "zgeniusecoders@gmail.com"
+    }
+  ],
+  "require": {}
+}
